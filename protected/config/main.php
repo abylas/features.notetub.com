@@ -9,9 +9,9 @@
 // CWebApplication properties can be configured here.
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
-	'name'=>'Ava.NoteTub.com',
+	'name'=>'features.NoteTub.com',
 
-	// preloading 'log' component
+	// preloading 'log' componentgf
 	'preload'=>array('log'),
 
 	// autoloading model and component classes
